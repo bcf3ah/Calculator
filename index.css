@@ -1,0 +1,57 @@
+.container {
+  padding-top: 50px;
+}
+
+#title {
+  margin-bottom: 20px;
+}
+
+#frame {
+  width: 40%;
+  height: 530px;
+  margin: auto;
+  padding-top: 8px;
+  text-align: center;
+}
+
+#outputDisplay {
+   position: relative;
+    top: 10px;
+}
+
+#output {
+  height: 60px;
+  width: 80%;
+  margin: auto;
+  padding-right: 10px;
+}
+
+#flexbox {
+  margin: auto;
+  margin-top: 20px;
+  width: 75%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.button {
+  padding: 10px;
+  margin: 1.67%;
+  width: 60px;
+  height: 60px;
+  background: #ef5350;
+  border-radius: 8px;
+  font-size: 24px;
+}
+
+.button2 {
+  display: inline-block;
+}
+
+.button3 {
+  width: 120px;
+  display: inline-block;
+}
